@@ -91,3 +91,43 @@ At the end of the quiz, the user gets:
 
 ```bash
 python quiz_app.py
+
+🖥️ Example Output
+Select Category:
+1. Geography
+2. Maths
+3. Science
+
+Enter your choice: 1
+
+Q1: What is the capital of France?
+a) Berlin
+b) Madrid
+c) Paris
+d) Rome
+
+Your Answer: c
+
+Correct! +10 points
+
+Final Score: 25
+Time Taken: 30 seconds
+📂 Project Structure
+📁 Python-Quiz-App
+ ├── 📄 quiz_app.py
+ └── 📁 assets
+      └── 🎥 demo.gif
+💡 Future Improvements
+📊 Detailed analytics (accuracy per category)
+🧑‍💻 User login system
+🏆 Leaderboard
+🌐 Web-based version (Flask / React)
+📱 Mobile-friendly UI
+🤝 Contributing
+
+Pull requests are welcome! 🚀
+Feel free to fork and improve the project.
+
+⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
